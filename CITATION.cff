@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+type: software
+title: "Code for: Wave Residuals for Case-Level Uncertainty Calibration in Learned Ultrasound Computed Tomography under Simulated Density and Acquisition Shifts"
+authors:
+  - family-names: Song
+    given-names: Yang
+    affiliation: "The Hong Kong Polytechnic University"
+  - family-names: Zhu
+    given-names: Ye
+    affiliation: "Independent Researcher"
+license: MIT
+repository-code: "https://github.com/SONGYangsss/usct-wave-residual-uq"
+keywords:
+  - ultrasound computed tomography
+  - uncertainty quantification
+  - conformal prediction
+  - neural operator
