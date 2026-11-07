@@ -23,8 +23,8 @@ The GPU scripts need TensorFlow 2.10 to 2.15 and were run with TensorFlow 2.10 o
 
 ## Data
 
-Download the Zenodo record (DOI: 10.5281/zenodo.XXXXXXX) and set `USCTUQ_DATA` to its folder,
-or pass `--data`.
+Download the Zenodo record [10.5281/zenodo.23970986](https://doi.org/10.5281/zenodo.23970986), unzip
+`checkpoints.zip` and `runs.zip` in the same folder, and set `USCTUQ_DATA` to it or pass `--data`.
 
 ```
 data/
